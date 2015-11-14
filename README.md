@@ -1,4 +1,2 @@
 # swc-retreat
-
-we are creating conflicts
-Lina is the bestest
+jon pipitone is the betterest..
