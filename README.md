@@ -1,4 +1,6 @@
 # swc-retreat
+<<<<<<< HEAD
 
-This is THomas adding another conflict.
+This is Thomas adding another conflict.
+jon pipitone
 Lina is the bestest!
