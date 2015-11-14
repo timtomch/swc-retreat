@@ -1,2 +1,4 @@
 # swc-retreat
-Adding another conflict.
+
+This is THomas adding another conflict.
+Lina is the bestest!
